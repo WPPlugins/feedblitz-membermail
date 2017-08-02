@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: feedblitz membermail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-21 15:31-0000\n"
+"PO-Revision-Date: 2012-10-21 15:31-0000\n"
+"Last-Translator: Andy Bailey <andrewgbailey@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../feedblitz_membermail.php:47
+msgid "Feedblitz member mail plugin requires Wordpress 2.9 or newer."
+msgstr ""
+
+#: ../feedblitz_membermail.php:47
+msgid "Please Update!"
+msgstr ""
+
+#: ../feedblitz_membermail.php:99
+msgid "FeedBlitz plugin error. No feed id specified. Integrated newsletter registration is disabled."
+msgstr ""
+
+#: ../feedblitz_membermail.php:118
+msgid "<strong>Error : </strong>Newsletter ID not specified. Please log in to the admin user interface and update the FeedBlitz settings"
+msgstr ""
+
+#: ../feedblitz_membermail.php:120
+msgid "on"
+msgstr ""
+
+#: ../feedblitz_membermail.php:256
+msgid "Settings"
+msgstr "Stuff"
+
+#: ../feedblitz_membermail.php:290
+msgid "This plugin makes it easy keep visitors up to date with your FeedBlitz newsletter by integrating newsletter sign up with the end user registration process and by adding a checkbox to the comment form on posts and pages to allow visitors to subscribe when they comment"
+msgstr ""
+
+#: ../feedblitz_membermail.php:293
+msgid "Easy Setup Steps"
+msgstr ""
+
+#: ../feedblitz_membermail.php:297
+#, php-format
+msgid "To get started, %s create a FeedBlitz Newsletter for %s %s if you have not done so already."
+msgstr ""
+
+#: ../feedblitz_membermail.php:300
+#, php-format
+msgid "Once you have created your Newsletter, enter its ID into the field below (the Newsletter ID can be found at %s):"
+msgstr ""
+
+#: ../feedblitz_membermail.php:303
+msgid "Optional: Set the text that will appear next to the opt in check box on the registration form: "
+msgstr ""
+
+#: ../feedblitz_membermail.php:310
+msgid "Newsletter ID"
+msgstr ""
+
+#: ../feedblitz_membermail.php:310
+msgid "Opt in text"
+msgstr ""
+
+#: ../feedblitz_membermail.php:310
+msgid "Where to add the checkbox (Registration/Comment Form)"
+msgstr ""
+
+#: ../feedblitz_membermail.php:317
+msgid "Both"
+msgstr ""
+
+#: ../feedblitz_membermail.php:318
+msgid "Registration Form"
+msgstr ""
+
+#: ../feedblitz_membermail.php:319
+msgid "Comment Form"
+msgstr ""
+
+#: ../feedblitz_membermail.php:326
+msgid "Save Changes"
+msgstr ""
+
